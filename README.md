@@ -4,8 +4,8 @@
 
 ## Стек технологий
 
-- PHP 8.x
-- Laravel 10.x
+- PHP 8.2
+- Laravel 12
 - MySQL / MariaDB
 - Composer
 
